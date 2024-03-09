@@ -1,0 +1,27 @@
+Instrucciones
+-------------------------------
+
+1. En la plantilla de Word:
+
+-Los campos a llenar deben expresarse como <<CAMPO>>
+Por ejemplo, en caso de que se deba llenar el nombre de la persona, las horas de asistencia y el folio de la constancia, 
+los campos se escribiran dentro del documento como <<NOMBRE>>, <<HORAS>>, <<fOLIO>>. 
+
+2. En la plantilla de Excel:
+
+-Cada columna corresponderá a uno de los campos que se deben llenar en la plantilla de Word. 
+En el ejemplo dado anteriormente, habrá una columna de nombres, otra de horas, y otra de folios. 
+-Los encabezados deben corresponder a los campos a llenar en el documento de Word, i.e., el nombre de las columnas serian NOMBRE, HORAS, FOLIO, etc. 
+
+3. Especificar los directorios donde se encuentran la plantilla de word, la plantilla de excel, y la carpeta donde se guardarán
+las constancias que se generen. 
+
+4.- Pulsar el botón de generación para guardar las constancias (el proceso puede tomar unos cuantos minutos en completarse).
+
+-----------------------------------
+
+*El programa requiere tener instalado Microsoft Word para funcionar. 
+*La hoja de excel con los datos debe llamarse Hoja1 (el nombre por default que asigna Microsoft)
+
+
+
